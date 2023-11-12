@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Porthfolio Website**
 
-- 🌱 I’m currently learning **Vue, Native**
+- 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **Android, MEARN**
+- 💬 Ask me about **MEARN STACK**
 
 - 📫 How to reach me **multicoder.net@gmail.com**
 
