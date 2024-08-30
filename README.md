@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdul+Musabbir;" />
 </h1>
 
-<h3 align="center">A passionate Font-End developer from Bangladesh bd</h3>
+<h3 align="center">A passionate Font-End developer from Bangladesh 🇧🇩</h3>
 
 <br/>
 
@@ -37,9 +37,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vscode,github,figma,git,javascript,typescript,firebase,supabase,php,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,javascript,typescrit, php,mysql" />
 </div>
-
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,firebase,supabase" />
+</div>
 <br/>
 <hr/>
 
