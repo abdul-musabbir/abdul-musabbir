@@ -41,7 +41,7 @@
 </div>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,firebase,supabase" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,firebase,supabase,laravel" />
 </div>
 <br/>
 <hr/>
