@@ -7,18 +7,6 @@
 <h3 align="center">A passionate Font-End developer from Bangladesh 🇧🇩</h3>
 
 <br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on **a chat app**
- 
- 🌱 I’m currently learning **PHP**
-
- 💬 Ask me about **React, Firebase, Mysql... or anything [here](https://github.com/abdul-musabbir)**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
  
 <div align="center"> 
   <a href="mailto:musabbirislam426@gmail.com">
